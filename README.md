@@ -1,1 +1,2 @@
-my first readme
+my first readme...
+I taught i had done the commit nah rmotely.
